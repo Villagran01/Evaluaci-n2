@@ -70,4 +70,3 @@ new bootstrap.Carousel(carouselElement, {
     interval: 5000,
     ride: true
 });
-
