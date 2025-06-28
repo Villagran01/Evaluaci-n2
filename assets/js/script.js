@@ -1,3 +1,5 @@
+
+// script Index 2
 const amenazas = [
     { titulo: 'Phishing', descripcion: 
         'Suplantación de identidad mediante correos o mensajes falsos para robar credenciales.', 
